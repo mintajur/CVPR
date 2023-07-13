@@ -3,4 +3,5 @@ This repository is based on computer vision and pattern recognition (CVPR). Like
 
 #cvpr
 
-#computervision#cnn#knn#neuralnetwork#mobilenet#alexnet#yolo#imageclassification#objectdetection
+#computervision
+#cnn#knn#neuralnetwork#mobilenet#alexnet#yolo#imageclassification#objectdetection
